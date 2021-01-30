@@ -28,7 +28,7 @@ let fruitQTan = false;
 let fruitSlowDown = false;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'https://space.bilibili.com/19869873';
+let adLink = 'https://space.bilibili.com/7250913/';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
 document.getElementsByTagName("title")[0].innerText = '合成小缘喵';
